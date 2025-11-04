@@ -1,3 +1,1 @@
-# Mon premier depot Git 
-Une ligne ajoutee pour le 2e commit. 
-Nouvelle section
+![CI](https://github.com/InassKh/git-initiation-inass/actions/workflows/ci.yml/badge.svg)
